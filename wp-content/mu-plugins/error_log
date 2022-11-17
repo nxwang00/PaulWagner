@@ -1,0 +1,6 @@
+[27-Oct-2022 22:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/paulwagner/public_html/wp-content/mu-plugins/class-lp-mu-plugin.php:22
+Stack trace:
+#0 /home/paulwagner/public_html/wp-content/mu-plugins/class-lp-mu-plugin.php(15): LP_MU_Plugin->__construct()
+#1 /home/paulwagner/public_html/wp-content/mu-plugins/class-lp-mu-plugin.php(140): LP_MU_Plugin::instance()
+#2 {main}
+  thrown in /home/paulwagner/public_html/wp-content/mu-plugins/class-lp-mu-plugin.php on line 22

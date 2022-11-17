@@ -1,0 +1,24 @@
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135

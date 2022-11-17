@@ -1,0 +1,48 @@
+[07-Jul-2022 12:32:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Item_Product' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php on line 2
+[07-Jul-2022 12:32:56 UTC] PHP Fatal error:  Uncaught Error: Class 'LP_Addon' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php on line 3
+[07-Jul-2022 12:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Item_Product' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php on line 2
+[07-Jul-2022 12:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'LP_Addon' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php on line 3
+[07-Jul-2022 12:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Item_Product' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php on line 2
+[07-Jul-2022 12:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'LP_Addon' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php on line 3
+[07-Jul-2022 12:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Item_Product' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php on line 2
+[07-Jul-2022 12:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'LP_Addon' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php on line 3
+[07-Jul-2022 12:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Item_Product' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php on line 2
+[07-Jul-2022 12:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'LP_Addon' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php on line 3
+[07-Jul-2022 12:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Order_Item_Product' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/class-wc-order-item-course.php on line 2
+[07-Jul-2022 12:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'LP_Addon' not found in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/plugins/learnpress-woo-payment/incs/load.php on line 3

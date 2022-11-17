@@ -1,0 +1,16 @@
+[28-Oct-2022 00:47:02 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[28-Oct-2022 00:50:26 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[28-Oct-2022 10:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[28-Oct-2022 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

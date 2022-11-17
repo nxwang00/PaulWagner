@@ -1,0 +1,12 @@
+[28-Oct-2022 09:48:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/paulwagner/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[28-Oct-2022 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/paulwagner/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[28-Oct-2022 09:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/paulwagner/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

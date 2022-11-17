@@ -1,0 +1,294 @@
+<?php
+/**
+ * Admin new order email
+ *
+ * This template can be overridden by copying it to yourtheme/woocommerce/emails/admin-new-order.php.
+ *
+ * HOWEVER, on occasion WooCommerce will need to update template files and you
+ * (the theme developer) will need to copy the new files to your theme to
+ * maintain compatibility. We try to do this as little as possible, but it does
+ * happen. When this occurs the version of the template file will be bumped and
+ * the readme will list any important changes.
+ *
+ * @see https://docs.woocommerce.com/document/template-structure/
+ * @package WooCommerce\Templates\Emails\HTML
+ * @version 3.7.0
+ */
+
+defined( 'ABSPATH' ) || exit;
+
+/*
+ * @hooked WC_Emails::email_header() Output the email header
+ */
+
+?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paul Email Template</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    
+    </head>
+<body style="color:#18335c;font-family:'Roboto', sans-serif;font-size:14px;font-weight:400;line-height:24px;padding:0;margin:0;">
+
+    <table align="center" class="wrapper" border="0" cellspacing="0" cellpadding="0" width="720" style="vertical-align:top;padding:0;margin:0 auto;border:1px solid #f1f1f1;box-sizing:border-box; -moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
+        <tr>
+            <td align="center">
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td><center><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/logo.png" alt="" style="display:block;margin:0;" /></center></td>
+                    </tr>
+                </table>
+
+               <!--  <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td><center>If you are booking a session with Paul, please review the <a href="https://www.paulwagner.com/consent-and-waiver/">Consent & Waiver Agreement</a> prior to your appointment. </center></td>
+                    </tr>
+                </table> -->
+
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td><center><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/banner.jpg" alt="" style="display:block;margin:0;" /></center></td>
+                    </tr>
+                </table>
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:0;width:100%;">
+                    <tr>
+                        <td colspan="3" style="color:#162f5d;font-size:22px;font-weight:700;padding:5px;padding-bottom:10px;">Your Information:</td>
+                    </tr>
+                    <tr>
+                        <td style="color:#162f5d;font-size:15px;font-weight:700;padding:5px;vertical-align:top;border-bottom:1px solid #dddff3;">Name</td>
+                        <td style="color:#162f5d;font-size:15px;font-weight:700;padding:5px;vertical-align:top;border-bottom:1px solid #dddff3;">Email</td>
+                        <td style="color:#162f5d;font-size:15px;font-weight:700;padding:5px;vertical-align:top;border-bottom:1px solid #dddff3;">Date</td>
+                    </tr>
+                    <tr>
+                        <td style="color: #162f5d;font-size:16px;font-weight:400;padding:5px;vertical-align:top;width:150px;">
+                            <?php echo $order->get_billing_first_name().' '.$order->get_billing_last_name(); ?>
+                                
+                            </td>
+                        <td style="color: #162f5d;font-size:16px;font-weight:400;padding:5px;vertical-align:top;">
+
+                            <?php echo $order->get_billing_email(); ?>
+                                
+                            </td>
+                        <td style="color: #162f5d;font-size:16px;font-weight:400;padding:5px;vertical-align:top;">
+
+                            <?php echo date("F j, Y"); ?>
+                                
+                            </td>
+                    </tr>
+                    
+                </table>
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:10px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td style="color:#162f5d;font-size:15px;font-weight:700;padding:5px;vertical-align:top;width:150px;">Address</td>
+                        <td colspan="2" style="color:#162f5d;font-size:15px;font-weight:400;padding:5px;vertical-align:top;">
+                            <?php echo $order->get_billing_address_1(); ?> 
+                            <?php echo '<br>'; ?>
+                           <?php echo $order->get_billing_city().',  '.$order->get_billing_state().' '.$order->get_billing_postcode(); ?> 
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td>
+                            <table align="center" class="itmes_in" border="0" cellspacing="0" cellpadding="5px" width="100%" style="vertical-align:top;padding:0;color:#162f5d;font-size:15px;font-weight:700;">
+                                <tr>
+                                    <th align="left" style="color:#162f5d;font-size:22px;font-weight:700;width:auto;padding-bottom:20px;">Your Order</th>
+                                    <th align="left" style="color:#162f5d;font-size:22px;font-weight:700;width:auto;padding-bottom:20px;">Product</th>
+                                    <th align="center" style="color:#162f5d;font-size:22px;font-weight:700;width:70px;padding-bottom:20px;">Qty</th>
+                                    <th align="center" style="color:#162f5d;font-size:22px;font-weight:700;width:90px;padding-bottom:20px;">Price</th>
+                                </tr>
+
+                                <?php 
+
+                                // print_r($order->get_items());
+                                
+                                foreach ( $order->get_items() as $item_id => $item ) {
+                                       $product_id = $item->get_product_id();
+                                       $variation_id = $item->get_variation_id();
+                                       $product = $item->get_product();
+                                       $name = $item->get_name();
+                                       $quantity = $item->get_quantity();
+                                       $subtotal = $item->get_subtotal();
+                                       $total = $item->get_total();
+                                       $tax = $item->get_subtotal_tax();
+                                       $taxclass = $item->get_tax_class();
+                                       $taxstat = $item->get_tax_status();
+                                       $allmeta = $item->get_meta_data();
+                                       $somemeta = $item->get_meta( '_whatever', true );
+                                       $type = $item->get_type();
+
+                                       $image = wp_get_attachment_image_src( get_post_thumbnail_id( $product_id ), 'single-post-thumbnail' );
+
+
+
+
+
+
+                                     ?>
+
+                                <tr>
+                                    <td align="left" style="width:100px;">
+
+                                        <img src="<?php  echo $image[0]; ?>" data-id="<?php echo $product_id; ?>" tyle="display:block;margin:0;height:120px;width:120px;" />
+
+                                        </td>
+                                    <td align="left" style="color:#162f5d;font-size:15px;font-weight:400;width:auto;vertical-align:top;"><?php echo $name; ?></td>
+                                    <td align="center" style="color:#162f5d;font-size:15px;font-weight:700;width:70px;"><?php echo $quantity; ?></td>
+                                    <td align="center" style="color:#b40aca;font-size:15px;font-weight:700;width:90px;">$ <?php echo number_format((float)$total , 2, '.', ''); ?></td>
+                                </tr>          
+
+                            <?php } ?>
+                              
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td colspan="2" style="color:#162f5d;font-size:15px;font-weight:400;padding-bottom:10px;border-top:1px solid #dddff3;"></td>
+                    </tr>
+                    <tr>
+
+
+                        <?php
+
+                               // 1. Get order object
+                          $order = wc_get_order( $order->get_id() );
+                          
+                           // 2. Initialize $cat_in_order variable
+                           $cat_in_order = false;
+                          
+                           // 3. Get order items and loop through them...
+                           // ... if product in category, edit $cat_in_order
+                           $items = $order->get_items(); 
+                              
+                           foreach ( $items as $item ) {      
+                              $product_id = $item->get_product_id();  
+                              if ( has_term( 'services', 'product_cat', $product_id ) ) {
+                                 $cat_in_order = true;
+                                 break;
+                              }
+                           }
+
+                           if ( $cat_in_order ) {
+                        ?>
+
+                        <td style="vertical-align:middle;padding-left:15px;padding-bottom:20px;width:250px;">
+                            <p style="font-size:14px;line-height:20px;display:inline-block;vertical-align:top;margin:0;"><img style="display:inline-block;position:relative;top:0;" src="https://paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/greentick.png" alt=""></p><a style="color:#000;font-size:16px;font-weight:400;line-height:20px;text-decoration:none;display:inline-block;border-bottom:1px solid #000;margin-left:0;" target="_blank" href="https://www.paulwagner.com/consent-and-waiver/">Customer Agreed to <br>Consent & Waiver</a>
+                        </td>
+
+                    <?php }?>
+
+
+                        <td>
+                            <table align="right" class="subtotal_in" border="0" cellspacing="0" cellpadding="3px" width="400" style="vertical-align:top;padding:0;padding-right:15px;">
+                                <tr>
+                                    <th align="right" style="color:#162f5d;font-size:15px;font-weight:400;text-align:right;padding-right:20px;">Subtotal:</th>
+                                    <th align="left" style="color:#162f5d;font-size:15px;font-weight:400;text-align:right;">$ 
+                                         <?php echo number_format((float)$order->get_subtotal() , 2, '.', ''); ?></th>
+                                </tr>
+                                <tr>
+                                    <th align="right" style="color:#162f5d;font-size:15px;font-weight:400;text-align:right;padding-right:20px;">Shipping:</th>
+                                    <th align="left" style="color:#162f5d;font-size:15px;font-weight:400;text-align:right;">$ 
+
+                                        <?php echo $order->get_shipping_total(); ?>
+                                            
+                                        </th>
+                                </tr>
+                                <tr>
+                                    <th align="right" style="color:#162f5d;font-size:15px;font-weight:400;text-align:right;padding-right:20px;">Estimated Tax:</th>
+                                    <th align="left" style="color:#162f5d;font-size:15px;font-weight:400;text-align:right;">$ <?php echo number_format((float)$tax , 2, '.', ''); ?></th>
+                                </tr>
+                                <tr style="color:#b40aca;">
+                                    <th align="right" style="color:#b40aca;font-size:18px;font-weight:400;text-align:right;padding-top:10px;padding-right:20px;border-top:2px solid #dddff3;">Order Total:</th>
+                                    <th align="left" style="color:#b40aca;font-size:18px;font-weight:400;text-align:right;padding-top:10px;border-top:2px solid #dddff3;">$ <?php echo number_format((float)$order->get_total() , 2, '.', ''); ?><</th>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td><center><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/yourspecialoffer.jpg" alt="" style="display:block;margin:0;width:100%;" /></center></td>
+                    </tr>
+                </table>
+                <table align="center" class="header" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:30px;padding-bottom:25px;width:100%;">
+                    <tr>
+                        <td>
+                            <table align="center" class="offer_in" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding:0;color:#004f63;">
+                                <tr>
+                                    <td align="left" style="width:40%;text-align:left;color:#ffffff;line-height:0;">
+                                        <img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/personalitycards.png" alt="" style="display:inline-block;margin:0;" />
+                                    </td>
+                                    <td align="right" style="width:60%;padding-right:60px;text-align:right;">
+                                        <h2 style="color:#3f2589;font-size:24px;font-weight:400;line-height:28px;text-align:right;padding:0 0 15px 0;margin:0;">THE PERSONALITY CARDS:<br>Inspiration for Life,<br>Love & Relationships</h2>
+                                        <p style="color:#692567;font-size:15px;font-weight:300;line-height:20px;text-align:right;padding:0 0 20px 0;margin:0;">The Personality Cards is a unique and wonderful oracle, akin to tarot, but far more powerful and insightful. Included in the purchase are 78 beautifully illustrated cards and a 174-page booklet, inside of a luxurious box.</p>
+                                        <p style="text-align:right;display:inline-block;padding:0;margin:0;width:255px;"><a href="https://www.paulwagner.com/product/the-personality-cards-divine-inspiration-for-life-love-relationships/" style="color:#ececec;font-size:15px;font-weight:600;line-height:18px;text-decoration:none;text-align:center;display:block;background:#8a007f;border:none;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;padding:8px;width:100%;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Check Out The Personality Cards!</a></p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="pcards" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding:0;padding-top:30px;padding-bottom:30px;background:#ecebfb;width:100%;">
+                    <tr>
+                        <td>
+                            <table align="center" class="offer_in" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding:0;color:#004f63;">
+                                <tr><td align="left" style="width:60%;padding-left:60px;text-align:left;">
+                                        <h2 style="color:#3f258a;font-size:24px;font-weight:400;line-height:28px;text-align:left;padding:0 0 15px 0;margin:0;">INTUITIVE READING<br/>WITH PAUL</h2>
+                                        <p style="color:#692567;font-size:15px;font-weight:300;line-height:20px;text-align:left;padding:0 0 20px 0;margin:0;">Find the answers you need to improve your life,conditions, and relationships. Improve your future with this deep-drive into your gifts, talents, and attributes.</p>
+                                        <p style="text-align:right;display:inline-block;padding:0;margin:0;width:255px;"><a href="https://www.paulwagner.com/product/one-hour-session/" style="color:#ececec;font-size:15px;font-weight:600;line-height:18px;text-decoration:none;text-align:center;display:block;background:#8a007f;border:none;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;padding:8px;width:100%;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Get Some Love</a></p>
+                                    </td>
+                                    <td align="right" style="width:40%;text-align:right;color:#ffffff;line-height:0;">
+                                        <img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/paulcards.png" alt="" style="display:inline-block;margin:0;" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="order" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:45px;padding-bottom:20px;margin:0;background:#593bad;width:100%;">
+                    <tr>
+                        <td>
+                            <table align="center" class="order" border="0" cellspacing="0" cellpadding="0" width="460" style="vertical-align:top;padding:0;width:240px;">
+                                <tr>
+                                    <td align="center"><a href="https://www.facebook.com/personalitiesbook"><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/fb.png" alt="" style="display:inline-block;margin:0;" /></a></td>
+                                    <td align="center"><a href="https://twitter.com/playfulstorm"><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/twitt.png" alt="" style="display:inline-block;margin:0;" /></a></td>
+                                    <td align="center"><a href="https://www.linkedin.com/in/peacefulgeek/"><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/linkedin.png" alt="" style="display:inline-block;margin:0;" /></a></td>
+                                    <td align="center"><a href="https://www.instagram.com/peacefulgeek/"><img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/insta.png" alt="" style="display:inline-block;margin:0;" /></a></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="order" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding-top:0;padding-bottom:30px;background:#593bad;width:100%;">
+                    <tr>
+                        <td align="center" style="text-align:center;padding-bottom:25px;">
+                            <h2 style="color:#f2e4f4;font-size:16px;font-weight:400;line-height:18px;text-align:center;padding:0 0 5px 0;margin:0;">HummingBear LLC</h2>
+                            <p style="color:#ff789a;font-size:13px;font-weight:400;line-height:18px;text-align:center;padding:0;margin:0;">4680 Chambers Road, Denver Co</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="text-align:center;padding-bottom:10px;">
+                            <h2 style="color:#f2e4f4;font-size:16px;font-weight:400;line-height:18px;text-align:center;padding:0 0 5px 0;margin:0;">Thank you for signing up! We like totaly love.</h2>
+                            <a href="https://unsubscribe.mailerlite.com/cnM9MTUyNDc4NDIyNzQxMTgyNjAzMyZyPTIxMDMzNDMw.ZqkVMNBdShMROAZ09SWA72x9Q7K4LY0nLiTA7vvMx7s"><p style="color:#ff789a;font-size:13px;font-weight:400;line-height:18px;text-align:center;padding:0;margin:0;">Unsubscribe Me From This Loving Tyranny!</p></a>
+                        </td>
+                    </tr>
+                </table>
+                <table align="center" class="order" border="0" cellspacing="0" cellpadding="0" width="100%" style="vertical-align:top;padding:20px;background:#37298d;width:100%;">
+                    <tr>
+                        <td align="center">
+                            <p style="color:#ffffff;font-size:20px;font-weight:400;line-height:22px;text-align:center;padding:0;margin:0;"><strong style="color:#ffffff;font-weight:400;padding-right:6px;position:relative;top:-4px;">Made for you with</strong> <img src="https://www.paulwagner.com/wp-content/themes/paulwagner/woocommerce/img/redheart.png" alt="" style="display:inline-block;margin:0;" /></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

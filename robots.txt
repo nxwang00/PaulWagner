@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /tag/*
+Crawl-delay: 10
+
+
+
+
+
+
+
+
+

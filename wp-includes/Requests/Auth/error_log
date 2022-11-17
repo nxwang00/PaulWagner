@@ -1,0 +1,2 @@
+[28-Oct-2022 01:11:03 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/paulwagner/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[28-Oct-2022 10:56:47 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/paulwagner/public_html/wp-includes/Requests/Auth/Basic.php on line 18

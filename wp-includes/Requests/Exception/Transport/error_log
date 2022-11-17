@@ -1,0 +1,8 @@
+[28-Oct-2022 02:09:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/paulwagner/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[28-Oct-2022 11:09:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/paulwagner/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

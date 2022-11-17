@@ -1,0 +1,24 @@
+[20-Oct-2021 04:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14
+[04-Jun-2022 19:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14
+[06-Jul-2022 15:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14
+[25-Jul-2022 16:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14
+[10-Sep-2022 00:02:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14
+[24-Oct-2022 02:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentynineteen/template-parts/content/content.php on line 14

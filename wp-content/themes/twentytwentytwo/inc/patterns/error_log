@@ -1,0 +1,1440 @@
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[15-Jul-2022 23:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[15-Jul-2022 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[15-Jul-2022 23:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[15-Jul-2022 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[15-Jul-2022 23:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[15-Jul-2022 23:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[15-Jul-2022 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-large-titles.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php on line 10
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-grid.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-image-grid.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/query-default.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php on line 6
+[15-Jul-2022 23:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php on line 6
+[15-Jul-2022 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php on line 9
+[15-Jul-2022 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php on line 6
+[15-Jul-2022 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php on line 6

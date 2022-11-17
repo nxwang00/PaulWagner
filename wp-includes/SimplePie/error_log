@@ -1,0 +1,8 @@
+[28-Oct-2022 03:11:11 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/paulwagner/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/SimplePie/Core.php on line 53
+[28-Oct-2022 11:21:07 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/paulwagner/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/SimplePie/Core.php on line 53

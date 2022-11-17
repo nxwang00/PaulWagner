@@ -1,0 +1,4 @@
+[28-Oct-2022 02:34:20 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/paulwagner/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[28-Oct-2022 02:35:28 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/paulwagner/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[28-Oct-2022 11:14:25 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/paulwagner/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[28-Oct-2022 11:14:38 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/paulwagner/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Minicart Pro 1.2\n"
+"POT-Creation-Date: 2019-11-01 07:23+0500\n"
+"PO-Revision-Date: 2019-11-01 07:24+0500\n"
+"Last-Translator: \n"
+"Language-Team: Ahmad Shyk a.hassan@ahmadshyk.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/wmc-pro-admin.php:11
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/wmc-pro-admin.php:50
+msgid "Settings saved"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:64 admin/wmc-pro-admin.php:68
+msgid "Enable Minicart"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:73
+msgid "Minicart Icon"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:77
+msgid "Cart Icons"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:121
+msgid "Custom Icon"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:130
+msgid "Custom Cart Icon URL"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:138 admin/wmc-pro-admin.php:141
+msgid "Minicart Position"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:145
+msgid "Top Left"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:151
+msgid "Top Right"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:157
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:163
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:171
+msgid "Offset"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:172
+msgid ""
+"Position from top, only applicable if Minicart position is either Top Left "
+"or Top Right."
+msgstr ""
+
+#: admin/wmc-pro-admin.php:176
+msgid "Style"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:178
+msgid "Minicart Count Background color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:183
+msgid "Minicart Count Text color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:188
+msgid "Minicart Header Background Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:193
+msgid "Minicart Header Text Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:198
+msgid "Minicart View Cart Button Background Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:203
+msgid "Minicart View Cart Button Text Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:208
+msgid "Minicart View Cart Button Hover Background Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:213
+msgid "Minicart View Cart Button Hover Text Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:218
+msgid "Minicart Checkout Button Background Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:223
+msgid "Minicart Checkout Button Text Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:228
+msgid "Minicart Checkout Button Hover Background Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:233
+msgid "Minicart Checkout Button Hover Text Color"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:238
+msgid "Shortcode"
+msgstr ""
+
+#: admin/wmc-pro-admin.php:239
+msgid ""
+"<strong style=\"font-size:18px;\">[woo-minicart]</strong> Use this shortcode "
+"to display minicart anywhere."
+msgstr ""
+
+#: admin/wmc-pro-admin.php:241
+msgid "Save Changes"
+msgstr ""
+
+#: class-woo-minicart-pro.php:158
+msgid "Minicart Pro Options"
+msgstr ""
+
+#: class-woo-minicart-pro.php:159
+msgid "Woo Minicart Pro"
+msgstr ""
+
+#: frontend/wmc-pro-default-fragment.php:13
+#: frontend/wmc-pro-default-template.php:46
+#: frontend/wmc-pro-shortcode-template.php:46
+#, php-format
+msgid "You have %d items in cart"
+msgstr ""
+
+#: frontend/wmc-pro-default-fragment.php:25
+#: frontend/wmc-pro-default-template.php:59
+#: frontend/wmc-pro-shortcode-template.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: frontend/wmc-pro-default-fragment.php:57
+#: frontend/wmc-pro-default-template.php:88
+#: frontend/wmc-pro-shortcode-template.php:88
+msgid "Subtotal:&nbsp;"
+msgstr ""
+
+#: frontend/wmc-pro-default-fragment.php:60
+#: frontend/wmc-pro-default-template.php:91
+#: frontend/wmc-pro-shortcode-template.php:91
+msgid "View Cart"
+msgstr ""
+
+#: frontend/wmc-pro-default-fragment.php:61
+#: frontend/wmc-pro-default-template.php:92
+#: frontend/wmc-pro-shortcode-template.php:92
+msgid "Checkout"
+msgstr ""
+
+#: frontend/wmc-pro-default-fragment.php:66
+#: frontend/wmc-pro-default-template.php:97
+#: frontend/wmc-pro-shortcode-template.php:97
+msgid "Your cart is empty."
+msgstr ""
+
+#: frontend/wmc-pro-default-template.php:41
+#: frontend/wmc-pro-shortcode-template.php:41
+msgid "Mini Cart"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p7/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: woo-minicart-pro.php:67
+msgid ""
+"WooCommerce Minicart Pro Plugin is activated but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: woo-minicart-pro.php:90
+msgid "Settings"
+msgstr ""

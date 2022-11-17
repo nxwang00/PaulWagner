@@ -1,0 +1,76 @@
+[15-Jul-2022 23:39:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jul-2022 23:39:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jul-2022 23:39:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jul-2022 23:39:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jul-2022 23:39:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jul-2022 23:39:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[28-Oct-2022 10:09:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[28-Oct-2022 10:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[28-Oct-2022 10:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[28-Oct-2022 10:13:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php on line 10
+[28-Oct-2022 10:13:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[28-Oct-2022 10:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[28-Oct-2022 10:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[28-Oct-2022 10:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[28-Oct-2022 10:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[28-Oct-2022 10:16:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[28-Oct-2022 10:17:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[28-Oct-2022 10:17:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[28-Oct-2022 10:18:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10

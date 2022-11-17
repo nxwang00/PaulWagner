@@ -1,0 +1,28 @@
+[15-Jul-2022 23:39:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[15-Jul-2022 23:39:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[15-Jul-2022 23:39:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[15-Jul-2022 23:39:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[15-Jul-2022 23:39:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[15-Jul-2022 23:39:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[28-Oct-2022 09:54:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6

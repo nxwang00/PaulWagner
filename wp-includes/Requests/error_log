@@ -1,0 +1,2 @@
+[28-Oct-2022 02:11:30 UTC] PHP Fatal error:  Interface 'Requests_Hooker' not found in /home/paulwagner/public_html/wp-includes/Requests/Hooks.php on line 15
+[28-Oct-2022 11:09:50 UTC] PHP Fatal error:  Interface 'Requests_Hooker' not found in /home/paulwagner/public_html/wp-includes/Requests/Hooks.php on line 15

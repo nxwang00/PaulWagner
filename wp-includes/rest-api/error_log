@@ -1,0 +1,8 @@
+[28-Oct-2022 09:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/paulwagner/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[28-Oct-2022 12:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/paulwagner/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/paulwagner/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
